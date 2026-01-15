@@ -1,8 +1,9 @@
-# taskbuddy
+# TaskBuddy
 
 A new Flutter project.
 
-## Getting Started
+## Preview
+![Preview](Taskbuddy-portfolio-fiverr-uiux.gif)
 
 This project is a starting point for a Flutter application.
 
