@@ -3,6 +3,15 @@
 A new Flutter project.
 
 ## Preview
+![Preview](1.png)
+![Preview](2.png)
+![Preview](3.png)
+![Preview](4.png)
+![Preview](5.png)
+![Preview](6.png)
+![Preview](7.png)
+![Preview](8.png)
+![Preview](9.png)
 ![Preview](Taskbuddy-portfolio-fiverr-uiux.gif)
 
 This project is a starting point for a Flutter application.
